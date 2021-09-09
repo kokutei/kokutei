@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @kokutei. I'm an PHP programmer.
-- 🌱 I’m currently learning python
+# About me
+
+- PHP,　javascript程序员
+- 最近在学习python
